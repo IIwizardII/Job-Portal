@@ -1,1 +1,1 @@
-# Job-Portal
+This website is an academic project created by me. The purpose behind this project it to build a system where people can find various jobs and apply to them. Also, the recruiters can post job ads in the system. 
